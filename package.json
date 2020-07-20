@@ -5,6 +5,7 @@
   "author": "nagachika@ruby-lang.org",
   "description": "my first hubot",
   "dependencies": {
+    "request": "2.69.0",
     "chai": "^1.10.0",
     "coffee-script": "^1.8.0",
     "cron": "^1.0.6",
