@@ -23,7 +23,7 @@
     "hubot-slack": "^3.2.1",
     "hubot-vault": "0.0.1",
     "mocha": "^2.0.1",
-    "mongodb": "^1.4.31",
+    "mongodb": "^3.6.1",
     "nock": "^0.58.0",
     "slack-node": "^0.2.0",
     "time": "^0.11.0"
